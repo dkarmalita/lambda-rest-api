@@ -15,6 +15,13 @@ export AWS_ACCESS_KEY_ID=<AWS EXAMPLE KEY ID>
 export AWS_SECRET_ACCESS_KEY=<AWS EXAMPLE KEY SECRET>
 ```
 
+## MongoDB providers
+
+I'm using (and can recommend) two:
+
+* [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
+* [mLab](https://mlab.com/welcome/)
+
 ## Avaliable scripts
 
 `npm start` - starts the API locally
@@ -26,9 +33,4 @@ export AWS_SECRET_ACCESS_KEY=<AWS EXAMPLE KEY SECRET>
 
 * [AWS - Credentials](https://serverless.com/framework/docs/providers/aws/guide/credentials/)
 * [Serverless quickstart](https://serverless.com/framework/docs/providers/aws/guide/quick-start/)
-
-Also, I'm using (and can recommend) two:
-
-* [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
-* [mLab](https://mlab.com/welcome/)
 
