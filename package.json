@@ -1,0 +1,21 @@
+{
+  "name": "rest-api",
+  "version": "0.1.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "start": "sls offline start --skipCacheInvalidation",
+    "deploy": "sls deploy",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dmitriy Karmalita <altmine@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "serverless-offline": "3.17.0"
+  },
+  "dependencies": {
+    "dotenv": "5.0.0",
+    "mongoose": "5.0.5"
+  }
+}
